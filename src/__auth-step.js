@@ -3,6 +3,9 @@
  * 2. npm install firebase
  * 3. create firebase.init.js and import getAuth and Export default auth
  * 4. firebase settings>Authentication> enable Email and password auth
+ * 5. create component and setup route
+ * 6. install firebase hook npm install --save react-firebase-hooks
+ * 7.useSignInWithEmailAndPassword import from firebase hook
  */
 
 

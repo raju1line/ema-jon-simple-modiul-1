@@ -20,7 +20,7 @@ const addToDb = id =>{
     localStorage.setItem('shopping-cart', JSON.stringify(shoppingCart));
 }
 
-const getStoredCart = () =>{
+const  getStoredCart = () =>{
     let shoppingCart = {};
 
     //get the shopping cart from local storage
